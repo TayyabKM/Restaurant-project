@@ -49,7 +49,8 @@ Welcome to the Restaurant Website Project! This responsive website was built usi
 
 ## Screenshots
 
-C:\Users\tayya\Restaurant-project\images\Foodies.png
+![Screenshot](./images/Foodies.png)
+
 
 ## 👥 Authors <a name="authors"></a>
 
