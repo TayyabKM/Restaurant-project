@@ -37,7 +37,7 @@ Welcome to the Restaurant Website Project! This responsive website was built usi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/restaurant-website.git
+   git clone https://github.com/TayyabKM/Restaurant-project.git
 
 2. Open the project folder in your code editor.
 
